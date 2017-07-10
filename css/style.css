@@ -245,7 +245,7 @@ button.w3view-cart:focus{
 	font-size:50px;
 	text-align:left;
 	margin:15px 0;
-	color:#fff;
+	color:#000000;
 	font-weight:700;
 }
 .banner-agile h3 span{
@@ -437,7 +437,7 @@ button.w3view-cart:focus{
 }
 .resp-tabs-container {
 	padding: 0px;
-	clear: left;	
+	clear: left;
 }
 h2.resp-accordion {
 	cursor: pointer;
@@ -820,7 +820,7 @@ ul.wmuSliderPagination {
 	border:1px solid #1da1f2;
 }
 .social-icon a .fa-twitter:hover{
-	color:#1da1f2;	
+	color:#1da1f2;
 }
 .fgd1 i.fa.fa-dribbble:hover{
 	background:#ea4c89;
@@ -870,7 +870,7 @@ p.copy-right{
 	text-decoration:underline;
  }
 /*-- //footer--*/
-/*-- cart-css --*/ 
+/*-- cart-css --*/
 #PPsbmincart form {
     position: relative;
     padding: 1em;
@@ -897,10 +897,10 @@ p.copy-right{
     left: 68%;
     top: 20%;
 	width: 420px;
-} 
+}
 .sbmincart-showing #PPsbmincart {
     display: block;
-    z-index: 9999; 
+    z-index: 9999;
     -webkit-animation: zoomIn .3s ease;
 	-moz-animation: zoomIn .3s ease;
 	-o-animation: zoomIn .3s ease;
@@ -954,7 +954,7 @@ p.copy-right{
 #PPsbmincart .sbmincart-remove {    width: 18px;    height: 19px;    margin: 2px 0 0;    padding: 0;    background: #b7b7b7;    border: 1px solid #a3a3a3;    border-radius: 3px;    color: #fff;    font-size: 13px;    opacity: 0.70;    cursor: pointer;}
 #PPsbmincart .sbmincart-remove:hover {    opacity: 1;}
 #PPsbmincart .sbmincart-footer {
-    clear: left; 
+    clear: left;
     text-align: center;
     margin-left: -1em;
 }
@@ -977,20 +977,20 @@ p.sbmincart-empty-text {
 /* Let's get this party started */
 #PPsbmincart form  ul::-webkit-scrollbar {
     width: 5px;
-} 
+}
 /* Track */
-#PPsbmincart form  ul::-webkit-scrollbar-track { 
-	-webkit-box-shadow: inset 0 0 6px #f44336; 
+#PPsbmincart form  ul::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 6px #f44336;
 	-moz-box-shadow: inset 0 0 6px #f44336;
 	-o-box-shadow: inset 0 0 6px #f44336;
-	-ms-box-shadow: inset 0 0 6px #f44336; 
-	box-shadow: inset 0 0 6px #999; 
+	-ms-box-shadow: inset 0 0 6px #f44336;
+	box-shadow: inset 0 0 6px #999;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	-o-border-radius: 10px;
 	-ms-border-radius: 10px;
 	border-radius: 10px;
-} 
+}
 /* Handle */
 #PPsbmincart form  ul::-webkit-scrollbar-thumb {
     -webkit-border-radius: 10px;
@@ -1003,11 +1003,11 @@ p.sbmincart-empty-text {
 	-o-box-shadow: inset 0 0 6px #00e58b;
 	-ms-box-shadow: inset 0 0 6px #00e58b;
     -webkit-box-shadow: inset 0 0 6px #00e58b;
-	box-shadow: inset 0 0 6px #00e58b; 	
-} 
-/*-- //cart-css --*/ 
+	box-shadow: inset 0 0 6px #00e58b;
+}
+/*-- //cart-css --*/
 
-/*-- women --*/ 
+/*-- women --*/
 
 .w3ls_dresses_grid_left_grid h3 {
     font-size: 1.5em;
@@ -1087,7 +1087,7 @@ p.sbmincart-empty-text {
 .women-set2{
 	margin:75px 0;
 }
-/*-- //women--*/ 
+/*-- //women--*/
 /*--Contact--*/
 .contact-left h4,.contact-left h5{
 	text-align:left;
@@ -1147,7 +1147,7 @@ p.sbmincart-empty-text {
     width: 100%;
     height: 350px;
     border: 5px solid #FAFAFA;
-	
+
 }
 /*-- //Map--*/
 /*-- about --*/
@@ -1159,8 +1159,8 @@ p.sbmincart-empty-text {
 .about img {
     width: 100%;
 }
- 
-.about-info p {  
+
+.about-info p {
     margin: 1em 0 1.5em;
 }
 .pince {
@@ -1233,21 +1233,21 @@ p.sbmincart-empty-text {
 	cursor: pointer;
 	position: relative;
 	line-height: 0px;
-	
+
 }
 
 .nbs-flexisel-item > img {
 	cursor: pointer;
-	position: relative; 
+	position: relative;
 }
 .grid-flex{
 	margin:10px 0 20px 0;
 }
 .nbs-flexisel-item > img {
-	cursor: pointer; 
+	cursor: pointer;
 }
 .biseller-info {
-	margin:1em 0 0 0; 
+	margin:1em 0 0 0;
 }
 .nbs-flexisel-nav-left, .nbs-flexisel-nav-right {
     width: 25px;
@@ -1262,7 +1262,7 @@ p.sbmincart-empty-text {
     background: url(../images/img-sprite.png) no-repeat 5px center;
     background-color:#00e58b;
 }
-.nbs-flexisel-nav-right { 
+.nbs-flexisel-nav-right {
 	right: 0%;
     background: url(../images/img-sprite.png) no-repeat -20px center;
     background-color: #00e58b;
@@ -1341,7 +1341,7 @@ p.sbmincart-empty-text {
     font-size: 15px;
     text-transform: capitalize;
     color: #000;
-    text-align: left;	
+    text-align: left;
 }
 .social-icon a {
     padding: 10px;
@@ -1531,7 +1531,7 @@ a.pa_italic:focus {
 		padding: 1em;
 	}
 }
-/*-- single-page --*/ 
+/*-- single-page --*/
 .single-top-left {
     margin-left:5%;
     width: 34%;
@@ -1550,7 +1550,7 @@ a.pa_italic:focus {
 }
 .single-top-right {
     padding-left: 5em;
-}  
+}
 .single-rating {
     margin: 1em 0;
     border-bottom: 1px solid #e0e0e0;
@@ -1561,11 +1561,11 @@ a.pa_italic:focus {
     color: #999;
     font-size: 1em;
 }
-.single-top-right ul li a{ 
-    color: #999; 
+.single-top-right ul li a{
+    color: #999;
 }
-.single-top-right ul li a:hover{ 
-    color: #0280e1; 
+.single-top-right ul li a:hover{
+    color: #0280e1;
 }
 .single-price ul li {
     margin-right: 1em;
@@ -1621,10 +1621,10 @@ p.single-price-text {
     border: 1px solid  #00e58b;
     color: #00e58b;
 }
-.single-top-right .w3ls-cart.w3ls-cart-like:hover{ 
+.single-top-right .w3ls-cart.w3ls-cart-like:hover{
     background:  #00e58b;
     color: #fff;
-} 
+}
 .single-page-icons.social-icons {
     margin: 5em 5em;
 }
@@ -1633,7 +1633,7 @@ p.single-price-text {
     color: #999;
     margin-right: 1em;
 }
-.single-page-icons.social-icons ul li { 
+.single-page-icons.social-icons ul li {
     vertical-align: middle;
 }
 /*-- collapse-tabs -*/
@@ -1665,7 +1665,7 @@ p.single-price-text {
 .collpse.tabs .panel-default > .panel-heading {
     padding: 0;
     background: #37a1f3;
-} 
+}
 .pa_italic span.fa-arrow{
     display: none;
 }
@@ -1674,7 +1674,7 @@ p.single-price-text {
     font-size: 1.8em;
     color: #ffffff;
     position: absolute;
-    top: 20%; 
+    top: 20%;
 }
 .collapsed i.fa-arrow{
     display: none;
@@ -1890,12 +1890,12 @@ a.at-in{
 }
 .quantity-select .entry.value-minus:before,
 .quantity-select .entry.value-plus:before{
-	content: ""; 
+	content: "";
 	width: 13px;
-	height: 2px; 
+	height: 2px;
 	background: #000;
 	left: 50%;
-	margin-left: -7px; 
+	margin-left: -7px;
 	top: 50%;
 	margin-top: -0.5px;
 	position: absolute;
@@ -1903,9 +1903,9 @@ a.at-in{
 .quantity-select .entry.value-plus:after{
 	content: "";
 	height: 13px;
-	width: 2px; 
+	width: 2px;
 	background: #000;
-	left: 50%; 
+	left: 50%;
 	margin-left: -1.4px;
     top: 50%;
     margin-top: -6.2px;
